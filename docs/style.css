@@ -10,7 +10,10 @@ body {
   color: #7B6CA8;
   margin-bottom: 20px;
 }
-
+.icon {
+  width: 24px;
+  height: 24px;
+}
 /* FILTER BUTTONS */
 .filters {
   margin-bottom: 25px;
