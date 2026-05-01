@@ -35,6 +35,11 @@ prevBtn.addEventListener("click", () => {
   currentIndex = (currentIndex - 1 + images.length) % images.length;
   showLightbox();
 });
+lightbox.addEventListener("click", (e) => {
+  if (e.target === lightbox) {
+    lightbox.style.display = "none";
+  }
+});
 
 // FILTERS
 let filterBtns = document.querySelectorAll(".filters button");
