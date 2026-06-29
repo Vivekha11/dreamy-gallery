@@ -1,7 +1,6 @@
-# 🌸 Dreamy Image Gallery
+# Dreamy Image Gallery
 
-A responsive and interactive image gallery built using HTML, CSS, and JavaScript.  
-This project allows users to view, filter, and explore images with a smooth user experience.
+Dreamy Image Gallery is a responsive frontend project built using HTML, CSS, and JavaScript. It allows users to filter images by category and view them in a lightbox with next and previous navigation.
 
 ---
 
@@ -20,6 +19,13 @@ This project allows users to view, filter, and explore images with a smooth user
 - HTML
 - CSS
 - JavaScript (DOM Manipulation)
+
+---
+## How to Run Locally
+
+1. Clone the repository
+2. Open the project folder
+3. Open `index.html` in your browser
 
 ---
 
